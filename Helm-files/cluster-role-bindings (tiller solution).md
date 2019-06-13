@@ -7,5 +7,7 @@ User "system:serviceaccount:kube-system:default" cannot get resource "namespaces
 ## Solution:
 
 $ kubectl --namespace kube-system create serviceaccount tiller
+
 $ kubectl create clusterrolebinding tiller --clusterrole cluster-admin --serviceaccount=kube-system:tiller
+
 $ helm init --service-account tiller --upgrade
