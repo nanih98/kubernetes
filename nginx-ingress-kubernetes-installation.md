@@ -4,7 +4,7 @@
 
 $ git clone https://github.com/nginxinc/kubernetes-ingress.git
 
-Run: 
+<b> Run: </b>
 
 $ cd kubernetes-ingress
 $ cd deployments
