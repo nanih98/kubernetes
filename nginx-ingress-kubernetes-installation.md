@@ -7,6 +7,7 @@ $ git clone https://github.com/nginxinc/kubernetes-ingress.git
 <b> Run: </b>
 
 $ cd kubernetes-ingress
+
 $ cd deployments
 
 $ kubectl create -f common/ns-and-sa.yaml
