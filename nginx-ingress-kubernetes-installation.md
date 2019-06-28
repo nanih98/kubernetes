@@ -19,3 +19,6 @@ $ kubectl create -f common/nginx-config.yaml
 $ kubectl create -f rbac/rbac.yaml
 
 $ kubectl create -f daemon-set/nginx-ingress.yaml
+
+
+Also we can install the service. Path: /deployment/service --> type loadbalancer or nodeport. 
