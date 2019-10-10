@@ -17,4 +17,9 @@ $ sudo vim preinstall.sh # Copy the script inside this file.
      alt="Check services"
      class="center" />
 
-<span style="color:blue">some *blue* text</span>.
+<span style="color:blue">HOLAAAA</span>.
+
+
+
+
+<span style="color:red">HOLAAAA</span>.
