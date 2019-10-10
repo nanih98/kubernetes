@@ -11,5 +11,7 @@ $ sudo vim preinstall.sh # Copy the script inside this file.
 ```
 > **Note**: It will take a couple of minutes
 
+## Once installed, we check that the services are working:
+
 ![Check services](./screenshot1.png)
 
