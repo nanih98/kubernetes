@@ -18,13 +18,5 @@ $ sudo vim preinstall.sh # Copy the script inside this file.
      class="center" />
 
 
-<div class="panel panel-warning">
-**Warning**
-{: .panel-heading}
-<div class="panel-body">
 
-WARNING DESCRIPTION
-
-</div>
-</div>
 
