@@ -16,3 +16,5 @@ $ sudo vim preinstall.sh # Copy the script inside this file.
 <img src="./screenshot1.png"
      alt="Check services"
      class="center" />
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
