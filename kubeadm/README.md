@@ -17,9 +17,14 @@ $ sudo vim preinstall.sh # Copy the script inside this file.
      alt="Check services"
      class="center" />
 
-<span style="color:blue">HOLAAAA</span>.
 
+<div class="panel panel-warning">
+**Warning**
+{: .panel-heading}
+<div class="panel-body">
 
+WARNING DESCRIPTION
 
+</div>
+</div>
 
-<span style="color:red">HOLAAAA</span>.
