@@ -18,5 +18,8 @@ $ sudo vim preinstall.sh # Copy the script inside this file.
      class="center" />
 
 
+```diff
+- IMPORTANT
+```
 
 
