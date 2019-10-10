@@ -21,5 +21,7 @@ $ sudo vim preinstall.sh # Copy the script inside this file.
 ```diff
 - IMPORTANT
 ```
+Repeat the process with each node of kubernetes you want to install. For **example** 1 maser and 2 workers.
+
 
 
