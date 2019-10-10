@@ -13,5 +13,6 @@ $ sudo vim preinstall.sh # Copy the script inside this file.
 
 ## Once installed, we check that the services are working:
 
-![Check services](./screenshot1.png)
-
+<img src="./screenshot1.png"
+     alt="Check services"
+     class="center" />
